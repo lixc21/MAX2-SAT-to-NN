@@ -5,7 +5,7 @@ clauses, a polynomial-size scalar ReLU network $F_\varphi : [0, 1] \to \mathbb{R
 whose Lipschitz constant satisfies
 
 $$
-\mathrm{Lip}(F_\varphi) \;=\; 2^{\,n+1}\,\cdot\,\mathrm{MAX\text{-}2SAT}(\varphi).
+\mathrm{Lip}(F_\varphi) = 2^{n+1} \cdot \mathrm{MAX\text{-}2SAT}(\varphi).
 $$
 
 The construction:
